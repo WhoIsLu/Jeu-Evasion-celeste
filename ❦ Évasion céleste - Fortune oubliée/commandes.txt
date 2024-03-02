@@ -1,0 +1,6 @@
+Fleches directionnelles : 
+     Deplacer le vaisseau
+
+Barre espace : 
+     Lacher la derniere 
+     piece recuperee
